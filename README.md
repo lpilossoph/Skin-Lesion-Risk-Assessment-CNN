@@ -9,7 +9,14 @@
 
 # Methods
 
-Utilizing the HAM10000 dataset, a vast collection of multi-source dermatoscopic images of malignany and benign skin lesions, I was able to build a neural network that classified skin lesion images as either low-risk or severe-risk with relatively high accuracy (88%). I utilized both a pre-trained network as well as a network that I built from scratch, which handled such issues as class-imbalance, overfitting, and minimizing false negatives, to name a few. 
+Utilizing the HAM10000 dataset, a vast collection of multi-source dermatoscopic images of malignany and benign skin lesions, I was able to build a neural network that classified skin lesion images as either low-risk or severe-risk with relatively high accuracy and very high recall:
+
+* Accuracy: 82%
+* Precision: 83%
+* Recall: 94%
+* F1 Score: 88%
+
+I utilized both a pre-trained network as well as a network that I built from scratch, which handled such issues as class-imbalance, overfitting, and minimizing false negatives, to name a few. 
 
 # Use Cases
 
