@@ -9,6 +9,8 @@
 
 # Methods
 
+<a href="https://github.com/lpilossoph/Skin-Lesion-Risk-Assessment-CNN/blob/master/Risk%20Assessment%20of%20Skin%20Lesions%20-%20notebook.ipynb">Link to Notebook</a>
+
 Utilizing the HAM10000 dataset, a vast collection of multi-source dermatoscopic images of malignany and benign skin lesions, I was able to build a neural network that classified skin lesion images as either low-risk or severe-risk with relatively high accuracy and very high recall:
 
 * Accuracy: 82%
